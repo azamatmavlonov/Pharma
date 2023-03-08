@@ -13,10 +13,10 @@ namespace Pharma.Domain.Models
         public string Form { get; set; }
         public string Category { get; set; }
         public int Volume { get; set; }
-        public DateOnly ProductionData { get; set; }
+        public string ProductionData { get; set; }
         public int ShelfLife { get; set; }
         public string Producer { get; set; }
-        public decimal Price { get; set; }
+        public double Price { get; set; }
         public bool IsActive { get; set; }
         public bool WithPrescription { get; set; }
         public string? Description { get; set; }

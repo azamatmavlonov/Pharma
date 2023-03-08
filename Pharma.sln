@@ -11,21 +11,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pharma.Domain", "Pharma.Dom
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pharma.Infrastructure", "Pharma.Infrastructure", "{07E83A65-D151-42AA-936E-04066256C17A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharma.API", "Pharma.API\Pharma.API\Pharma.API.csproj", "{DE624CF3-EF35-4F39-89F9-5D432E413802}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pharma.API", "Pharma.API\Pharma.API\Pharma.API.csproj", "{DE624CF3-EF35-4F39-89F9-5D432E413802}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharma.API.Tests", "Pharma.API\Pharma.API.Tests\Pharma.API.Tests.csproj", "{45EB713D-CF13-4CE1-8356-A3282E486A62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pharma.API.Tests", "Pharma.API\Pharma.API.Tests\Pharma.API.Tests.csproj", "{45EB713D-CF13-4CE1-8356-A3282E486A62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharma.Application", "Pharma.Application\Pharma.Application\Pharma.Application.csproj", "{D9F8B4B8-D1D1-4EA3-A20E-A26DC99CE918}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pharma.Application", "Pharma.Application\Pharma.Application\Pharma.Application.csproj", "{D9F8B4B8-D1D1-4EA3-A20E-A26DC99CE918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharma.Application.Tests", "Pharma.Application\Pharma.Application.Tests\Pharma.Application.Tests.csproj", "{F31E93E2-ECCC-4F2F-8D0B-1968FC38E1A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pharma.Application.Tests", "Pharma.Application\Pharma.Application.Tests\Pharma.Application.Tests.csproj", "{F31E93E2-ECCC-4F2F-8D0B-1968FC38E1A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharma.Domain", "Pharma.Domain\Pharma.Domain\Pharma.Domain.csproj", "{FDAEBAC0-425B-4367-A7D2-2B5F1DA2AE5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pharma.Domain", "Pharma.Domain\Pharma.Domain\Pharma.Domain.csproj", "{FDAEBAC0-425B-4367-A7D2-2B5F1DA2AE5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharma.Domain.Tests", "Pharma.Domain\Pharma.Domain.Tests\Pharma.Domain.Tests.csproj", "{5393187E-D9B0-4912-8B21-88FF3366AD1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pharma.Domain.Tests", "Pharma.Domain\Pharma.Domain.Tests\Pharma.Domain.Tests.csproj", "{5393187E-D9B0-4912-8B21-88FF3366AD1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharma.Infrastructure", "Pharma.Infrastructure\Pharma.Infrastructure\Pharma.Infrastructure.csproj", "{319A2D6C-3894-4985-94EA-7BBF153B0D77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pharma.Infrastructure", "Pharma.Infrastructure\Pharma.Infrastructure\Pharma.Infrastructure.csproj", "{319A2D6C-3894-4985-94EA-7BBF153B0D77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharma.Infrastructure.Tests", "Pharma.Infrastructure\Pharma.Infrastructure.Tests\Pharma.Infrastructure.Tests.csproj", "{E05B001F-A027-4525-83FB-BEA75F182496}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pharma.Infrastructure.Tests", "Pharma.Infrastructure\Pharma.Infrastructure.Tests\Pharma.Infrastructure.Tests.csproj", "{E05B001F-A027-4525-83FB-BEA75F182496}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
